@@ -9,4 +9,10 @@ author:
   name: Veil & Vine Cleaning
   email: contact@veilvinecleaning.com
 
-  Add site configuration
+# Navigation Links
+header_pages:
+  - index.md
+  - services.md
+  - about.md
+  - contact.md
+
