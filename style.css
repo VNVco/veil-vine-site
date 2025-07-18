@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  color: #333;
+  background-color: #f7f5f0;
+  line-height: 1.6;
+}
+
+header.banner {
+  background-color: #fff;
+  text-align: center;
+  padding: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.banner-logo {
+  max-height: 120px;
+  display: block;
+  margin: 0 auto 1rem auto;
+}
+
+nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #4b4c3b;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2rem;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #eee;
+  font-size: 0.9rem;
+  margin-top: 2rem;
+}
+
+/* About Page Background Logo */
+.about-page {
+  background-image: url('images/logo-background.png');
+  background-size: 400px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
