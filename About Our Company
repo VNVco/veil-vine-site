@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Us | Veil & Vine Cleaning Co.</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Georgia', serif;
+      background-color: #4b4c3b;
+      color: #fff8dc;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 2.8rem;
+      margin-bottom: 1rem;
+      color: #f7ead7;
+    }
+
+    .section {
+      margin-bottom: 2.5rem;
+      background: rgba(255, 255, 255, 0.08);
+      padding: 1.5rem;
+      border-radius: 10px;
+    }
+
+    h2 {
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+      color: #f4e2c6;
+    }
+
+    p {
+      font-size: 1.1rem;
+      margin: 0.5rem 0;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      opacity: 0.6;
+      margin-top: 3rem;
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      h2 {
+        font-size: 1.4rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>About Veil & Vine Cleaning Co.</h1>
+
+    <div class="section">
+      <h2>Our Story</h2>
+      <p>Founded in Columbus, Ohio, Veil & Vine Cleaning Co. is a residential and commercial cleaning business based in Columbus, Ohio, focused on providing personalized, exceptional cleaning services with an emphasis on trust, care, and consistency.</p>
+    </div>
+
+    <div class="section">
+      <h2>Our Mission</h2>
+      <p>We strive to provide eco-conscious cleaning services that respect your home, your health, and the planet. We believe every space deserves care, attention, and a sense of renewal—without the harsh chemicals or corporate rush.</p>
+    </div>
+
+    <div class="section">
+      <h2>What Sets Us Apart</h2>
+      <p>✔ Plant-based, pet-safe products</p>
+      <p>✔ Thoughtful, non-rushed cleans</p>
+      <p>✔ Locally rooted, community-driven service</p>
+    </div>
+
+    <footer>
+      &copy; 2025 Veil & Vine Cleaning Co. | Columbus, OH
+    </footer>
+  </div>
+
+</body>
+</html>
