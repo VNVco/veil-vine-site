@@ -46,13 +46,12 @@ footer {
 /* About Page Background Logo */
 .about-page {
   background-image: url('vnv-logo-background.png');
-}
-
-  background-size: 400px;
-  background-position: center center;
   background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
   background-attachment: fixed;
 }
+
 .services-list {
   list-style-type: none;
   padding: 0;
