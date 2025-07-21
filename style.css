@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: 'Times New Roman, Bold', serif;
   color: #333;
-  background-color: #56593c;
+  background-color: #565738;
   line-height: 1.6;
 }
 
@@ -10,7 +10,7 @@ header.banner {
   background-color: #62476f;
   text-align: center;
   padding: 1rem;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 0px solid #ccc;
 }
 
 .banner-logo {
