@@ -7,7 +7,7 @@ body {
 }
 
 header.banner {
-  background-color: #fff;
+  background-color: #faf1cc;
   text-align: center;
   padding: 1rem;
   border-bottom: 1px solid #ccc;
@@ -38,7 +38,7 @@ main {
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: #eee;
+  background-color: #faf1cc;
   font-size: 0.9rem;
   margin-top: 2rem;
 }
