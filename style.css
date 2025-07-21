@@ -2,12 +2,12 @@ body {
   margin: 0;
   font-family: 'Times New Roman, Bold', serif;
   color: #333;
-  background-color: #a98fac;
+  background-color: #56593c;
   line-height: 1.6;
 }
 
 header.banner {
-  background-color: #faf1cc;
+  background-color: #62476f;
   text-align: center;
   padding: 1rem;
   border-bottom: 1px solid #ccc;
