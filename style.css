@@ -1,14 +1,14 @@
 body {
   margin: 0;
   font-family: 'Times New Roman, Bold', serif;
-  color: #333;
+  color: #d5c0d4;
   background-color: #545535;
   line-height: 1.6;
 }
 
 header.banner {
   background-color: #62476f;
-  text-align: center;
+  text-align: right;
   padding: 1rem;
   border-bottom: 0px solid #ccc;
 }
@@ -22,7 +22,7 @@ header.banner {
 nav a {
   margin: 0 1rem;
   text-decoration: none;
-  color: #4b4c3b;
+  color: #d5c0d4;
   font-weight: bold;
 }
 
@@ -36,7 +36,7 @@ main {
 }
 
 footer {
-  text-align: center;
+  text-align: left;
   padding: 1rem;
   background-color: #faf1cc;
   font-size: 0.9rem;
